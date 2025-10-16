@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Shabnam;
+    src: url(../font/shabnam-font-v5.0.1/Shabnam-Light.ttf);
+}
+
+* {
+    font-family: Shabnam;
+}
+
+body {
+    direction: rtl;
+    background-color: #dfdfdf;
+    padding: 120px 460px;
+}
